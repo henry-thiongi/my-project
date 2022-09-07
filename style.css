@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, sans-serif
+}
+body{
+    margin: 2em 0;
+    padding: 1em 2em 0;
+    border: 1px;
+    min-width: 6px;
+
+}
+button{
+    color: red;
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+}
